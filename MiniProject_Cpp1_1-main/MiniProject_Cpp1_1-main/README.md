@@ -1,12 +1,7 @@
 
 # Store Management System
 
-## Team Details
-### Team Name - C++1_1
-#### Mentor : Ranu Gontia
-#### Yagneswar Boddapati 
-#### Saksham Jha
-#### Kuldeep Singh<br/>
+#### Nisha<br/>
 ## Introduction<br/>
 This is our implementation of a store management system. It helps in automation of tasks like keeping track of all the available products, generating bills for orders, getting various types of reports, enabling customer registrations and correspondingly providing discounts etc. For more details refer to the problem statement.
 
