@@ -1,0 +1,3 @@
+Bill-Id			Customer Contact Number			Price Paid
+Jul-01-2022-19-07-43			1234567899			810.000000
+Jul-01-2022-19-10-04			1234567899			0.000000

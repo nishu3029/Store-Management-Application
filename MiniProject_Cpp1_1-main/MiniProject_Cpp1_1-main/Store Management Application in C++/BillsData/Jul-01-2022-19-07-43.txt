@@ -1,0 +1,9 @@
+Date : Jul-01-2022-19-07-43
+Customer Contact Number : 1234567899
+
+Product Model	Quantity	Price (per 1 piece)
+i11			2		300
+i11			1		300
+
+Total Price : 900
+Discounted Price : 810.000000

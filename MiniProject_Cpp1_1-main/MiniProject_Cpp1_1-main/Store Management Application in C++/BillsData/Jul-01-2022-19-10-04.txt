@@ -1,0 +1,7 @@
+Date : Jul-01-2022-19-10-04
+Customer Contact Number : 1234567899
+
+Product Model	Quantity	Price (per 1 piece)
+
+Total Price : 0
+Discounted Price : 0.000000

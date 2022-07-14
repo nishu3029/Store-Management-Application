@@ -1,0 +1,2 @@
+Customer Name			Contact Number			Membership Type
+Rohit			1234567899			GOLD
